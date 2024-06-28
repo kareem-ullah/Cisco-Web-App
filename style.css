@@ -1,0 +1,130 @@
+.container {
+  /* display: flex; */
+  list-style: none;
+}
+.navbar {
+  width: 90%;
+  height: 100px;
+  font-size: 20px;
+  margin-left: 6rem;
+  background-color: white !important;
+  list-style: none;
+}
+.nav-item {
+  margin-left: 20px;
+}
+.benar {
+  width: 100%;
+}
+.section-2 ul {
+  padding: 0%;
+}
+section ul li {
+  list-style: none;
+}
+.benar-2-ul-2 {
+  display: flex;
+  list-style: none;
+}
+.benar-img-li {
+  position: relative;
+}
+.fig-cap-1 {
+  position: absolute;
+  top: 20%;
+  left: 5%;
+  font-size: 25px;
+}
+.benar-2-img {
+  width: 100%;
+  height: 800px;
+}
+.heading {
+  font-size: 4rem;
+  color: white;
+}
+.p {
+  color: white;
+}
+.benar-btn{
+    position: absolute;
+  top: 65%;
+  left: 5%;
+  font-size: 25px;
+  width: 220px;
+  height: 80px;
+  border-radius: 50px;
+}
+
+.products{
+    text-align: center;
+    font-size: 48px;
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+}
+
+.li-3-img {
+    display: flex;
+}
+.li-3-img ul li img{
+    width: 95%;
+}
+
+
+
+.section-3 {
+  padding-top: 20px;
+} 
+
+.section-3 li {
+  width: 170px;
+}
+.Downloads {
+  text-align: center;
+}
+.section-3 li figcaption {
+  font-size: 20px;
+}
+.section-4 ul {
+  display: flex;
+}
+.section-4 ul li {
+  margin-top: 5rem;
+  width: 50%;
+}
+.section-4 ul li figure img {
+  width: 100%;
+}
+.section-4-figcap {
+  font-size: 50px;
+}
+.section-5 ul {
+  display: flex;
+}
+.section-5 ul li {
+  margin-top: 5rem;
+  width: 50%;
+}
+.section-5 ul li figure img {
+  width: 96.5%;
+}
+.section-5-btn{
+    width: 220px;
+    height: 80px;
+    margin-top: 3rem;
+    border-radius: 50px;
+    border: solid 2px rgb(45, 45, 247);
+    background-color: white;
+    font-size: 22px;
+    font-weight: bold;
+    color: rgb(52, 52, 252);
+    margin-bottom: 2rem;
+}
+.two-li {
+  width: 30%;
+  margin-left: 8%;
+  padding-top: 20px;
+}
+.fig {
+  font-size: 20px;
+}
